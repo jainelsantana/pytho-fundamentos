@@ -1,0 +1,13 @@
+lista=[1,2,3,4,5,7,"jainel",99,120]
+print(lista)
+lista.append("novoj")
+print(lista)
+lista.append(745)
+print(lista)
+lista.index("jainel")
+lista.count("jainel)")
+lista.append("jainel")
+lista.remove(7)
+print(lista)
+lista.reverse()
+print(lista)
